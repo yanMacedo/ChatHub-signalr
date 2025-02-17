@@ -29,3 +29,4 @@ C:\Users\yan.leite\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\refint\
 C:\Users\yan.leite\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\SignalRChat.pdb
 C:\Users\yan.leite\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\SignalRChat.genruntimeconfig.cache
 C:\Users\yan.leite\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\ref\SignalRChat.dll
+C:\Users\yan.leite\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\SignalRChat.sourcelink.json
